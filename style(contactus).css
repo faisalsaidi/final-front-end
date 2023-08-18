@@ -90,3 +90,12 @@ main {
    
 }
 
+.Done {
+
+    margin: 0 15px;
+    text-decoration: none;
+    color:#ff4500;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
